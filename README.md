@@ -59,11 +59,12 @@ Para la persistencia de datos, el proyecto utiliza PostgreSQL. Aquí se muestran
 
 ### Tabla `libros`
 Esta tabla almacena la información detallada de cada libro consultado y guardado.
+![tablaLibros](https://github.com/user-attachments/assets/bc9ed961-82d4-4d06-a0c6-b8a0a2b7a116)
 
 
 ### Tabla `autores`
 Esta tabla contiene los datos de los autores asociados a los libros.
-
+![tableAutores](https://github.com/user-attachments/assets/0866a832-d728-4c01-a24e-58ea1e33297e)
 
 ## 🤝 Contribuciones
 
