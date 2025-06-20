@@ -1,6 +1,6 @@
 # LiterAlura - Catálogo de Libros y Autores
 
-Este proyecto es un catálogo de libros y autores desarrollado como parte del desafío "LiterAlura" de Alura Latam y Oracle One. Permite interactuar con la API de Gutendex para buscar libros, así como gestionar y consultar la información de libros y autores en una base de datos local (PostgreSQL).
+Este proyecto es un catálogo de libros y autores desarrollado como parte del desafío "LiterAlur". Permite interactuar con la API de Gutendex para buscar libros, así como gestionar y consultar la información de libros y autores en una base de datos local (PostgreSQL).
 
 ## 📚 Funcionalidades
 
@@ -57,10 +57,6 @@ La aplicación ofrece un menú interactivo en consola con las siguientes opcione
 
 ¡Las contribuciones son bienvenidas! Si encuentras un error o tienes una mejora, por favor, abre un 'issue' o envía un 'pull request'.
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
-*(Si no tienes un archivo LICENSE, puedes quitar esta sección o añadir uno. Para este desafío, generalmente no se requiere una licencia explícita, pero es buena práctica)*
 
 ---
 
