@@ -53,7 +53,7 @@ La aplicación ofrece un menú interactivo en consola con las siguientes opcione
         ```
     * O ábrelo en tu IDE (IntelliJ IDEA recomendado) y ejecuta la clase `LiteraluraApplication.java`.
   
-    * ## 🗃️ Base de Datos
+* ## 🗃️ Base de Datos
 
 Para la persistencia de datos, el proyecto utiliza PostgreSQL. Aquí se muestran capturas de pantalla de las tablas principales y algunos de sus datos:
 
