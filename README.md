@@ -56,10 +56,3 @@ La aplicación ofrece un menú interactivo en consola con las siguientes opcione
 ## 🤝 Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si encuentras un error o tienes una mejora, por favor, abre un 'issue' o envía un 'pull request'.
-
-
----
-
-Hecho con ❤️ por <Tu Nombre Completo>
-[GitHub Profile](https://github.com/<tu-usuario>)
-[LinkedIn Profile](https://www.linkedin.com/in/<tu-perfil-de-linkedin>/)
