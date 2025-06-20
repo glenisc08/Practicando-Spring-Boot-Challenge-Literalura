@@ -1,4 +1,4 @@
-package com.aluracursos.literalura.principal; // Asegúrate de que este es el paquete correcto para tu Principal.java
+package com.aluracursos.literalura.principal;
 
 import com.aluracursos.literalura.dto.Datos;
 import com.aluracursos.literalura.dto.DatosAutor;

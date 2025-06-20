@@ -1,4 +1,4 @@
-package com.aluracursos.literalura.modelos; // <-- ¡Asegúrate de que este sea tu paquete!
+package com.aluracursos.literalura.modelos;
 
 public enum Idioma {
     ES("es"), // Español

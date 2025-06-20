@@ -26,7 +26,6 @@ public class Autor {
         this.anoFallecimiento = anoFallecimiento;
     }
 
-    // --- Getters y Setters ---
     public Long getId() {
         return id;
     }
@@ -67,7 +66,6 @@ public class Autor {
         this.libros = libros;
     }
 
-    // --- toString() para fácil depuración ---
     @Override
     public String toString() {
         return "Autor{" +

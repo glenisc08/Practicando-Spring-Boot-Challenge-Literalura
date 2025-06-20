@@ -29,7 +29,6 @@ public class Libro {
         this.numeroDescargas = numeroDescargas;
     }
 
-    // --- Getters y Setters ---
     public Long getId() {
         return id;
     }
@@ -70,7 +69,6 @@ public class Libro {
         this.numeroDescargas = numeroDescargas;
     }
 
-    // --- toString() para fácil depuración ---
     @Override
     public String toString() {
         return String.format("----- LIBRO -----%n" +
