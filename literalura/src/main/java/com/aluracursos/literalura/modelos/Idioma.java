@@ -16,7 +16,6 @@ public enum Idioma {
         return idiomaGutendex;
     }
 
-    // Método estático para obtener un Idioma a partir de su código Gutendex
     public static Idioma fromString(String text) {
         for (Idioma idioma : Idioma.values()) {
             if (idioma.idiomaGutendex.equalsIgnoreCase(text)) {
