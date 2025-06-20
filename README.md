@@ -52,7 +52,21 @@ La aplicación ofrece un menú interactivo en consola con las siguientes opcione
         ./mvnw spring-boot:run
         ```
     * O ábrelo en tu IDE (IntelliJ IDEA recomendado) y ejecuta la clase `LiteraluraApplication.java`.
+  
+    * ## 🗃️ Base de Datos
+
+Para la persistencia de datos, el proyecto utiliza PostgreSQL. Aquí se muestran capturas de pantalla de las tablas principales y algunos de sus datos:
+
+### Tabla `libros`
+Esta tabla almacena la información detallada de cada libro consultado y guardado.
+
+
+### Tabla `autores`
+Esta tabla contiene los datos de los autores asociados a los libros.
+
 
 ## 🤝 Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si encuentras un error o tienes una mejora, por favor, abre un 'issue' o envía un 'pull request'.
+
+
